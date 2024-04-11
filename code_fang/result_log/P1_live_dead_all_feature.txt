@@ -1,0 +1,313 @@
+
+ take 23473.5 seconds to finish 
+ Setting: alpha = 0.990000, beta =0.990000, BURNING = 700, MAX_NUMBER = 1000 ,N = 50
+
+ours_acr_mean: 0.5264,ours_acr_std: 0.0905 
+gibbs_zhe_acr_mean: 0.5773,gibbs_zhe_acr_std: 0.0933 
+lr_acr_mean: 0.5718,lr_acr_std: 0.0936 
+esnet_acr_mean: 0.5836,esnet_acr_std: 0.1001 
+rf_acr_mean: 0.4864,rf_acr_mean: 0.0972 
+just-mode_acr_mean: 0.4136,mode_acr_std: 0.0475 
+just-random_acr_mean: 0.5118,just-random_acr_std: 0.0953 
+
+ours_AUC_mean: 0.5517,ours_AUC_std: 0.1099 
+gibbs_zhe_AUC_mean: 0.6081,gibbs_zhe_AUC_std: 0.1031 
+lr_AUC_mean: 0.6046,lr_AUC_std: 0.1033 
+esnet_AUC_mean: 0.6042,esnet_AUC_mean: 0.1067 
+rf_AUC_mean: 0.5142,rf_AUC_std: 0.0985 
+
+
+
+ take 6552.85 seconds to finish 
+ Setting: alpha = 0.990000, beta =0.990000, BURNING = 300, MAX_NUMBER = 500 ,N = 15, alpha=0.990, beta=0.990
+
+
+
+ours_acr_mean: 0.5212,ours_acr_std: 0.0922 
+gibbs_zhe_acr_mean: 0.5848,gibbs_zhe_acr_std: 0.0860 
+lr_acr_mean: 0.6121,lr_acr_std: 0.0595 
+esnet_acr_mean: 0.6182,esnet_acr_std: 0.0594 
+rf_acr_mean: 0.5061,rf_acr_mean: 0.0721 
+just-mode_acr_mean: 0.4212,mode_acr_std: 0.0483 
+just-random_acr_mean: 0.5061,just-random_acr_std: 0.0860 
+
+ours_AUC_mean: 0.5118,ours_AUC_std: 0.0911 
+gibbs_zhe_AUC_mean: 0.5930,gibbs_zhe_AUC_std: 0.0962 
+lr_AUC_mean: 0.6369,lr_AUC_std: 0.0758 
+esnet_AUC_mean: 0.6477,esnet_AUC_mean: 0.0703 
+rf_AUC_mean: 0.5625,rf_AUC_std: 0.1055 
+
+
+
+ take 2934.97 seconds to finish 
+ Setting: alpha = 0.990000, beta =0.990000, BURNING = 300, MAX_NUMBER = 500 ,N = 10, alpha=0.990, beta=0.990
+
+
+
+ours_acr_mean: 0.5045,ours_acr_std: 0.1084 
+gibbs_zhe_acr_mean: 0.5500,gibbs_zhe_acr_std: 0.1084 
+lr_acr_mean: 0.5727,lr_acr_std: 0.0867 
+esnet_acr_mean: 0.5773,esnet_acr_std: 0.0644 
+rf_acr_mean: 0.4864,rf_acr_mean: 0.1096 
+just-mode_acr_mean: 0.4182,mode_acr_std: 0.0636 
+just-random_acr_mean: 0.4773,just-random_acr_std: 0.0711 
+
+ours_AUC_mean: 0.5139,ours_AUC_std: 0.1232 
+gibbs_zhe_AUC_mean: 0.5963,gibbs_zhe_AUC_std: 0.1402 
+lr_AUC_mean: 0.6188,lr_AUC_std: 0.0724 
+esnet_AUC_mean: 0.6211,esnet_AUC_mean: 0.0641 
+rf_AUC_mean: 0.5463,rf_AUC_std: 0.0688 
+
+ take 1489.73 seconds to finish 
+ Setting: alpha = 0.990000, beta =0.990000, BURNING = 10, MAX_NUMBER = 50 ,N = 50, alpha=0.990, beta=0.990
+
+
+
+ours_acr_mean: 0.5255,ours_acr_std: 0.0976 
+gibbs_zhe_acr_mean: 0.5100,gibbs_zhe_acr_std: 0.1129 
+lr_acr_mean: 0.6000,lr_acr_std: 0.0798 
+esnet_acr_mean: 0.6127,esnet_acr_std: 0.0864 
+rf_acr_mean: 0.4991,rf_acr_mean: 0.0907 
+just-mode_acr_mean: 0.4255,mode_acr_std: 0.0587 
+just-random_acr_mean: 0.4882,just-random_acr_std: 0.1086 
+
+ours_AUC_mean: 0.5280,ours_AUC_std: 0.1130 
+gibbs_zhe_AUC_mean: 0.4976,gibbs_zhe_AUC_std: 0.1368 
+lr_AUC_mean: 0.6345,lr_AUC_std: 0.0997 
+esnet_AUC_mean: 0.6354,esnet_AUC_mean: 0.1048 
+rf_AUC_mean: 0.5355,rf_AUC_std: 0.1140 
+
+
+
+
+ take 3913.09 seconds to finish 
+ Setting: alpha = 0.990000, beta =0.990000, BURNING = 100, MAX_NUMBER = 300 ,N = 20, alpha=0.990, beta=0.990
+
+
+
+ours_acr_mean: 0.5500,ours_acr_std: 0.1103 
+gibbs_zhe_acr_mean: 0.5341,gibbs_zhe_acr_std: 0.1065 
+lr_acr_mean: 0.5727,lr_acr_std: 0.0914 
+esnet_acr_mean: 0.5568,esnet_acr_std: 0.0908 
+rf_acr_mean: 0.5182,rf_acr_mean: 0.0867 
+just-mode_acr_mean: 0.4341,mode_acr_std: 0.0465 
+just-random_acr_mean: 0.4432,just-random_acr_std: 0.0861 
+
+ours_AUC_mean: 0.5671,ours_AUC_std: 0.1171 
+gibbs_zhe_AUC_mean: 0.5444,gibbs_zhe_AUC_std: 0.1147 
+lr_AUC_mean: 0.6143,lr_AUC_std: 0.1001 
+esnet_AUC_mean: 0.6025,esnet_AUC_mean: 0.1002 
+rf_AUC_mean: 0.5288,rf_AUC_std: 0.0994 
+
+
+
+
+ take 18231.9 seconds to finish 
+ Setting: alpha = 0.990000, beta =0.990000, BURNING = 700, MAX_NUMBER = 1000 ,N = 30, alpha=0.990, beta=0.990 （fix z）
+
+
+
+ours_acr_mean: 0.5864,ours_acr_std: 0.0991 
+gibbs_zhe_acr_mean: 0.5621,gibbs_zhe_acr_std: 0.0874 
+lr_acr_mean: 0.6061,lr_acr_std: 0.0755 
+esnet_acr_mean: 0.5803,esnet_acr_std: 0.0958 
+rf_acr_mean: 0.5227,rf_acr_mean: 0.0702 
+just-mode_acr_mean: 0.4303,mode_acr_std: 0.0547 
+just-random_acr_mean: 0.5333,just-random_acr_std: 0.0960 
+
+ours_AUC_mean: 0.6018,ours_AUC_std: 0.1179 
+gibbs_zhe_AUC_mean: 0.5994,gibbs_zhe_AUC_std: 0.1191 
+lr_AUC_mean: 0.6058,lr_AUC_std: 0.1049 
+esnet_AUC_mean: 0.6133,esnet_AUC_mean: 0.1025 
+rf_AUC_mean: 0.5384,rf_AUC_std: 0.0890 
+
+
+
+
+ take 13952.9 seconds to finish 
+ Setting: alpha = 0.500000, beta =0.500000, BURNING = 700, MAX_NUMBER = 1000 ,N = 30, alpha=0.500, beta=0.500 （0-init, update z）
+
+
+
+ours_acr_mean: 0.4379,ours_acr_std: 0.0659 
+gibbs_zhe_acr_mean: 0.5515,gibbs_zhe_acr_std: 0.0994 
+lr_acr_mean: 0.5833,lr_acr_std: 0.1010 
+esnet_acr_mean: 0.5758,esnet_acr_std: 0.1058 
+rf_acr_mean: 0.5076,rf_acr_mean: 0.0761 
+just-mode_acr_mean: 0.4364,mode_acr_std: 0.0570 
+just-random_acr_mean: 0.4803,just-random_acr_std: 0.0973 
+
+ours_AUC_mean: 0.4940,ours_AUC_std: 0.0479 
+gibbs_zhe_AUC_mean: 0.5988,gibbs_zhe_AUC_std: 0.0960 
+lr_AUC_mean: 0.6201,lr_AUC_std: 0.1003 
+esnet_AUC_mean: 0.6233,esnet_AUC_mean: 0.1014 
+rf_AUC_mean: 0.5358,rf_AUC_std: 0.0944 
+
+1. finetuning alpha beta, check select result:alpha=0.99 
+2. init with lr 
+
+
+
+
+ take 7428.95 seconds to finish 
+ Setting: alpha = 0.950000, beta =0.950000, BURNING = 200, MAX_NUMBER = 500 ,N = 30, alpha=0.950, beta=0.950（lr-init, update z）
+
+
+
+ours_acr_mean: 0.5682,ours_acr_std: 0.0922 
+gibbs_zhe_acr_mean: 0.5773,gibbs_zhe_acr_std: 0.0955 
+lr_acr_mean: 0.5682,lr_acr_std: 0.1008 
+esnet_acr_mean: 0.5288,esnet_acr_std: 0.1072 
+rf_acr_mean: 0.4773,rf_acr_mean: 0.1028 
+just-mode_acr_mean: 0.4182,mode_acr_std: 0.0568 
+just-random_acr_mean: 0.4773,just-random_acr_std: 0.0884 
+
+ours_AUC_mean: 0.5769,ours_AUC_std: 0.1175 
+gibbs_zhe_AUC_mean: 0.5814,gibbs_zhe_AUC_std: 0.1133 
+lr_AUC_mean: 0.5996,lr_AUC_std: 0.0977 
+esnet_AUC_mean: 0.5572,esnet_AUC_mean: 0.1151 
+rf_AUC_mean: 0.5141,rf_AUC_std: 0.1090 
+
+
+
+
+ take 11844.5 seconds to finish 
+ Setting: alpha = 0.990000, beta =0.950000, BURNING = 600, MAX_NUMBER = 1000 ,N = 25, alpha=0.990, beta=0.950（lr-init, update z）
+
+
+
+ours_acr_mean: 0.5873,ours_acr_std: 0.0812 
+gibbs_zhe_acr_mean: 0.5927,gibbs_zhe_acr_std: 0.1087 
+lr_acr_mean: 0.5982,lr_acr_std: 0.0959 
+esnet_acr_mean: 0.5836,esnet_acr_std: 0.0951 
+rf_acr_mean: 0.5000,rf_acr_mean: 0.0761 
+just-mode_acr_mean: 0.4436,mode_acr_std: 0.0519 
+just-random_acr_mean: 0.4673,just-random_acr_std: 0.0992 
+
+ours_AUC_mean: 0.5874,ours_AUC_std: 0.0848 
+gibbs_zhe_AUC_mean: 0.6252,gibbs_zhe_AUC_std: 0.1022 
+lr_AUC_mean: 0.6276,lr_AUC_std: 0.0999 
+esnet_AUC_mean: 0.6269,esnet_AUC_mean: 0.1022 
+rf_AUC_mean: 0.5303,rf_AUC_std: 0.0969 
+
+
+
+
+ take 15390.3 seconds to finish 
+setting: lr-init, update z
+ Setting: alpha = 0.800000, beta =0.600000, BURNING = 600, MAX_NUMBER = 1000 ,N = 25, alpha=0.800, beta=0.600（lr-init, update z）
+
+
+
+
+ours_acr_mean: 0.5891,ours_acr_std: 0.0710 
+gibbs_zhe_acr_mean: 0.6109,gibbs_zhe_acr_std: 0.1165 
+lr_acr_mean: 0.5982,lr_acr_std: 0.0959 
+esnet_acr_mean: 0.5836,esnet_acr_std: 0.0951 
+rf_acr_mean: 0.5000,rf_acr_mean: 0.0761 
+just-mode_acr_mean: 0.4436,mode_acr_std: 0.0519 
+just-random_acr_mean: 0.4673,just-random_acr_std: 0.0992 
+
+ours_AUC_mean: 0.6208,ours_AUC_std: 0.0779 
+gibbs_zhe_AUC_mean: 0.6272,gibbs_zhe_AUC_std: 0.0986 
+lr_AUC_mean: 0.6176,lr_AUC_std: 0.0999 
+esnet_AUC_mean: 0.6269,esnet_AUC_mean: 0.1022 
+rf_AUC_mean: 0.5303,rf_AUC_std: 0.0969 
+
+
+
+
+ take 12040 seconds to finish 
+setting: lr-init, update z
+ Setting: alpha = 0.900000, beta =0.500000, BURNING = 600, MAX_NUMBER = 1000 ,N = 25, alpha=0.900, beta=0.500（lr-init, update z）
+
+
+
+
+ours_acr_mean: 0.5927,ours_acr_std: 0.1032 
+gibbs_zhe_acr_mean: 0.5600,gibbs_zhe_acr_std: 0.0977 
+lr_acr_mean: 0.5982,lr_acr_std: 0.0959 
+esnet_acr_mean: 0.5836,esnet_acr_std: 0.0951 
+rf_acr_mean: 0.5000,rf_acr_mean: 0.0761 
+just-mode_acr_mean: 0.4436,mode_acr_std: 0.0519 
+just-random_acr_mean: 0.4673,just-random_acr_std: 0.0992 
+
+ours_AUC_mean: 0.6203,ours_AUC_std: 0.0968 
+gibbs_zhe_AUC_mean: 0.6012,gibbs_zhe_AUC_std: 0.0934 
+lr_AUC_mean: 0.6176,lr_AUC_std: 0.0999 
+esnet_AUC_mean: 0.6269,esnet_AUC_mean: 0.1022 
+rf_AUC_mean: 0.5303,rf_AUC_std: 0.0969 
+
+
+
+
+ take 15344.5 seconds to finish 
+setting: lr-init, update z
+ Setting: alpha = 0.900000, beta =0.300000, BURNING = 600, MAX_NUMBER = 1000 ,N = 25, alpha=0.900, beta=0.300
+
+
+
+ours_acr_mean: 0.5800,ours_acr_std: 0.0912 
+gibbs_zhe_acr_mean: 0.5927,gibbs_zhe_acr_std: 0.1202 
+lr_acr_mean: 0.5982,lr_acr_std: 0.0959 
+esnet_acr_mean: 0.5836,esnet_acr_std: 0.0951 
+rf_acr_mean: 0.5000,rf_acr_mean: 0.0761 
+just-mode_acr_mean: 0.4436,mode_acr_std: 0.0519 
+just-random_acr_mean: 0.4673,just-random_acr_std: 0.0992 
+
+ours_AUC_mean: 0.5911,ours_AUC_std: 0.0826 
+gibbs_zhe_AUC_mean: 0.6249,gibbs_zhe_AUC_std: 0.1067 
+lr_AUC_mean: 0.6276,lr_AUC_std: 0.0999 
+esnet_AUC_mean: 0.6269,esnet_AUC_mean: 0.1022 
+rf_AUC_mean: 0.5303,rf_AUC_std: 0.0969 
+
+
+
+
+ take 17450.1 seconds to finish 
+setting: lr-init, update z
+ Setting: alpha = 0.500000, beta =0.800000, BURNING = 600, MAX_NUMBER = 1000 ,N = 25, alpha=0.500, beta=0.800
+
+
+
+ours_acr_mean: 0.5891,ours_acr_std: 0.1072 
+gibbs_zhe_acr_mean: 0.5818,gibbs_zhe_acr_std: 0.1178 
+lr_acr_mean: 0.5982,lr_acr_std: 0.0959 
+esnet_acr_mean: 0.5836,esnet_acr_std: 0.0951 
+rf_acr_mean: 0.5000,rf_acr_mean: 0.0761 
+just-mode_acr_mean: 0.4436,mode_acr_std: 0.0519 
+just-random_acr_mean: 0.4673,just-random_acr_std: 0.0992 
+
+ours_AUC_mean: 0.5969,ours_AUC_std: 0.1014 
+gibbs_zhe_AUC_mean: 0.6073,gibbs_zhe_AUC_std: 0.1170 
+lr_AUC_mean: 0.6276,lr_AUC_std: 0.0999 
+esnet_AUC_mean: 0.6269,esnet_AUC_mean: 0.1022 
+rf_AUC_mean: 0.5303,rf_AUC_std: 0.0969 
+
+
+
+
+ take 17462.6 seconds to finish 
+setting: lr-init, update z
+ Setting: alpha = 0.500000, beta =0.600000, BURNING = 600, MAX_NUMBER = 1000 ,N = 25, alpha=0.500, beta=0.600
+
+
+
+ours_acr_mean: 0.5891,ours_acr_std: 0.0710 
+gibbs_zhe_acr_mean: 0.6109,gibbs_zhe_acr_std: 0.1165 
+lr_acr_mean: 0.5982,lr_acr_std: 0.0959 
+esnet_acr_mean: 0.5836,esnet_acr_std: 0.0951 
+rf_acr_mean: 0.5000,rf_acr_mean: 0.0761 
+just-mode_acr_mean: 0.4436,mode_acr_std: 0.0519 
+just-random_acr_mean: 0.4673,just-random_acr_std: 0.0992 
+
+ours_AUC_mean: 0.6108,ours_AUC_std: 0.0779 
+gibbs_zhe_AUC_mean: 0.6272,gibbs_zhe_AUC_std: 0.0986 
+lr_AUC_mean: 0.6276,lr_AUC_std: 0.0999 
+esnet_AUC_mean: 0.6269,esnet_AUC_mean: 0.1022 
+rf_AUC_mean: 0.5303,rf_AUC_std: 0.0969 
+
+
+
+1. esnet- valildation
+2. choose samples from vaidation
