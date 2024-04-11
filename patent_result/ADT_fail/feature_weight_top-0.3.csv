@@ -1,0 +1,17 @@
+feature_name,feature_weight
+gene_P1_CHEK2_SNP,-1.106
+gene_P1_ATM_SNP,-1.023
+lip_P1_DG_DG(18:1_18:2)_high,0.739
+lip_P1_DG_DG(16:0_22:6)_low,0.736
+lip_P1_DG_DG(18:1_18:2)_low,-0.711
+lip_P1_DG_DG(16:0_22:6)_high,-0.708
+lip_P1_DG_DG(18:2_20:4)_high,0.587
+lip_P1_DG_DG(18:2_20:4)_low,-0.559
+lip_P1_DG_DG(18:1_20:3)_high,0.554
+lip_P1_DG_DG(18:1_20:3)_low,-0.527
+lip_P1_DG_DG(18:2_22:6)_high,0.477
+lip_P1_DG_DG(16:1_18:1)_high,0.454
+lip_P1_DG_DG(18:2_22:6)_low,-0.45
+lip_P1_DG_DG(16:1_18:1)_low,-0.426
+lip_P1_DG_DG(18:0_20:4)_low,0.413
+lip_P1_DG_DG(14:0_16:0)_high,0.392
