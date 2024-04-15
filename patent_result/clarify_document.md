@@ -1,0 +1,19 @@
+## Technical Documentation for Predictive Modeling in Advanced Prostate Cancer
+
+### Introduction
+In the domain of medical oncology, the ability to accurately predict clinical outcomes for prostate cancer patients can revolutionize personalized treatment plans. Our method tackles this challenge for metastatic hormone-sensitive prostate cancer (mHSPC) and metastatic castrate-resistant prostate cancer (mCRPC). Leveraging artificial intelligence, we've developed a sophisticated ML system that combines plasma-derived genomic alterations with lipidomic profiles to forecast key clinical outcomes across a longitudinal cohort. This initiative is motivated by the need for precision medicine tools that can parse through complex biological data to predict events such as the early failure of ADT, exceptional response to treatment, and patient longevity with advanced cancer stages. Designed with domain experts in mind, our approach distills cutting-edge machine learning into clinically actionable insights.
+
+### Material Group 1: Performance Graphs (Figure S2-S5 in paper)
+The first group of materials presents a series of graphs detailing model performance relative to the proportion of utilized features. These visual aids convey how the model's accuracy is affected as we streamline the data, focusing on the most informative variables. Such representation is instrumental in demonstrating the trade-off between model simplicity and predictive power, guiding clinicians in the delicate balance of rapid assessment and reliability.
+
+### Material Group 2: Feature-Weight Tables (feature_weight tables in the four task-specific folders)
+Tables constituting the second group of materials list critical genomic and lipidomic features weighted by their influence on clinical outcomes as discerned by the AI models. The process of assigning weight to each feature is a calculated measure of its impact, highlighting the features that serve as the most potent indicators of clinical trajectories. These tables encapsulate complex computational processes into an accessible format, providing clinicians with the essence of our predictive models.
+
+### Material Group 3: Patient Feature Values (patient_feature_values tables in the four task-specific folders )
+The third material group comprises datasets documenting the specific values of top features for each patient case. These values form the substrate upon which our prediction models operate, furnishing the necessary quantitative context for the subsequent computation of individual prognoses.
+
+### Material Group 4: Predictive Score Calculation Methodologies (score-computation files in the four task-specific folders )
+Material Group 4 is a collection of documents that serve as a step-by-step guide to computing each patient’s probability score based on the weighted features. This calculation methodology is built upon the previous three materials, employing the weighted features (Material Group 2) and the corresponding patient values (Material Group 3) to methodically determine the likelihood of clinical outcomes. These documents function as a detailed operational manual, outlining the precise formulae and calculations used to derive a patient's predictive score. This process is meticulously designed to be transparent and replicable, ensuring that those without a background in machine learning can understand and apply our predictive techniques to real-world clinical data.
+
+#### Conclusion
+Our suite of materials is meticulously designed to guide clinicians through the nuanced landscape of prostate cancer prognosis using AI. By providing detailed technical explanations and a clear methodology for utilizing our predictive system, we aim to make advanced AI tools accessible and practical for everyday clinical use. This accessibility and practicality underpin the transformative potential of our work and its suitability for patent protection.
